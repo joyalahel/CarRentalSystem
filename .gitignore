@@ -1,0 +1,34 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio build files
+x64/
+Debug/
+Release/
+*.tlog
+*.log
+*.recipe
+*.idb
+*.pdb
+*.ilk
+*.applocal.log
+
+# Generated output files
+*.html
+*.pdf
+rental_cars.txt
+
+# Keep input data files as examples
+# users.txt
+# cars.txt
